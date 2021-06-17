@@ -9,7 +9,7 @@ public class logincontroller {
 	
 	 @RequestMapping( "/index")
 	 public String index() {
-		 		System.out.println( "user index. . ." );
+		 		System.out.println( "user index. . ...." );
 		 		return "index";
 	 }
 }
